@@ -1,0 +1,5 @@
+/home/emmanueljllo/Escritorio/Prueba.net/TalentoPlus/TalentoPlus.Application/obj/Debug/net9.0/TalentoPlus.Application.csproj.AssemblyReference.cache
+/home/emmanueljllo/Escritorio/Prueba.net/TalentoPlus/TalentoPlus.Application/obj/Debug/net9.0/TalentoPlus.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/emmanueljllo/Escritorio/Prueba.net/TalentoPlus/TalentoPlus.Application/obj/Debug/net9.0/TalentoPlus.Application.AssemblyInfoInputs.cache
+/home/emmanueljllo/Escritorio/Prueba.net/TalentoPlus/TalentoPlus.Application/obj/Debug/net9.0/TalentoPlus.Application.AssemblyInfo.cs
+/home/emmanueljllo/Escritorio/Prueba.net/TalentoPlus/TalentoPlus.Application/obj/Debug/net9.0/TalentoPlus.Application.csproj.CoreCompileInputs.cache
